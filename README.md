@@ -1,2 +1,3 @@
-# vufuzi.se
-Website
+# Vufuzi Website
+
+Company website. All rights reserved.
