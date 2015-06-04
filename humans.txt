@@ -1,10 +1,12 @@
-# humanstxt.org/
-# The humans responsible & technology colophon
+/* TEAM */
 
-# TEAM
-	Jeremy Karsson -- Web Developer -- @enjikaka
+Developer: Jeremy Karlsson
+Site: http://jeremy.se
+Twitter: @enjikaka
+Localtion: Arvika, Sweden
 
-# TECHNOLOGY COLOPHON
+/* SITE */
 
-    HTML5, CSS3
-    Normalize.css, Zepto
+Last update: 2015/06/04
+Standards: HTML5, CSS, JavaScript, Sass
+Software: Sublime Text 3, Prepros,
