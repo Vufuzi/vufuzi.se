@@ -20,6 +20,8 @@ body {
   margin: 0;
   background-color: $main-background;
   font-family: 'Roboto', sans-serif;
+  display: flex; 
+  flex-direction: column;
 }
 
 .main-header {
@@ -97,7 +99,8 @@ main {
   //max-width: 500px;
   //padding: 0 2rem;
   @include max-width-and-spacing;
-  margin:2rem auto;
+  flex: 1;
+  margin: 2rem auto;
   font-weight: 300;
   font-family: 'Roboto';
   line-height: 1.4rem;
